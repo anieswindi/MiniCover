@@ -22,7 +22,7 @@
     "react-select": "^3.0.4",
     "reactdom": "^2.0.0",
     "reactstrap": "^8.0.1",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.10.0"
   },
   "browserslist": {
     "production": [
